@@ -1,0 +1,14 @@
+[
+    {
+        "name": "finish todo app",
+        "is_completed": false,
+        "desc": "not very verbose description",
+        "due_date": "NONE"
+    },
+    {
+        "name": "create a task",
+        "is_completed": false,
+        "desc": "Make sure to give it really cool functionality and do some other stuff",
+        "due_date": "10/22/2002"
+    }
+]
