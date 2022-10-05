@@ -7,7 +7,7 @@ Simple rust TUI application that keeps track of goals and tasks that you create 
 - [ ] View history of tasks
 - [ ] Add descriptions to tasks
 - [ ] Clean TUI to let sit in your terminal
-- [ ] One screen that shows updates
+- [ ] One screen that shows all you need 
 
 ## Task Information
 - name
