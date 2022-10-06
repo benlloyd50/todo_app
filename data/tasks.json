@@ -1,14 +1,26 @@
 [
-    {
-        "name": "finish todo app",
-        "is_completed": false,
-        "desc": "not very verbose description",
-        "due_date": "NONE"
-    },
-    {
-        "name": "create a task",
-        "is_completed": false,
-        "desc": "Make sure to give it really cool functionality and do some other stuff",
-        "due_date": "10/22/2002"
-    }
+  {
+    "name": "create a task",
+    "is_completed": false,
+    "desc": "Make sure to give it really cool functionality and do some other stuff",
+    "due_date": "10/22/2002"
+  },
+  {
+    "name": "enhance the todo app",
+    "is_completed": false,
+    "desc": "make it even quirky and cooler",
+    "due_date": "never"
+  },
+  {
+    "name": "upload build to git",
+    "is_completed": false,
+    "desc": "get the new build out to git",
+    "due_date": "never"
+  },
+  {
+    "name": "make an exe",
+    "is_completed": false,
+    "desc": "make it so im running it without cargo run and use the dotfiles maybe",
+    "due_date": "sooner"
+  }
 ]
