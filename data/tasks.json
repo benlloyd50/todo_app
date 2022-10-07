@@ -1,7 +1,7 @@
 [
   {
     "name": "create a task",
-    "is_completed": false,
+    "is_completed": true,
     "desc": "Make sure to give it really cool functionality and do some other stuff",
     "due_date": "10/22/2002"
   },
@@ -22,5 +22,11 @@
     "is_completed": false,
     "desc": "make it so im running it without cargo run and use the dotfiles maybe",
     "due_date": "sooner"
+  },
+  {
+    "name": "finish readme requirements",
+    "is_completed": false,
+    "desc": "check the readme for description of remaining tasks",
+    "due_date": "soonish"
   }
 ]

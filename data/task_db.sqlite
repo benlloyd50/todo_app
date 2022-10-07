@@ -1,0 +1,8 @@
+CREATE TABLE [IF NOT EXISTS] [main].task (
+    tid INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    desc TEXT NULL,
+    is_completed BOOLEAN NOT NULL,
+    due_date DATE NULL,
+    CHECK (is_completed IN (0, 1))
+) [WITHOUT ROWID]; 
